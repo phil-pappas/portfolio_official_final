@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Filippos Pappas</title>
-    <link>https://phil-pappas.github.io/categories/</link>
+    <link>https://phil-pappas.github.io/portfolio_official_final/categories/</link>
     <description>Recent content in Categories on Filippos Pappas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://phil-pappas.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phil-pappas.github.io/portfolio_official_final/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
