@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Filippos Pappas</title>
-    <link>https://phil-pappas.github.io/portfolio_official_final/</link>
+    <link>https://phil-pappas.github.io/</link>
     <description>Recent content on Filippos Pappas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://phil-pappas.github.io/portfolio_official_final/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phil-pappas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Who is Phil</title>
-      <link>https://phil-pappas.github.io/portfolio_official_final/posts/about-phil/bio/</link>
+      <link>https://phil-pappas.github.io/posts/about-phil/bio/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://phil-pappas.github.io/portfolio_official_final/posts/about-phil/bio/</guid>
+      <guid>https://phil-pappas.github.io/posts/about-phil/bio/</guid>
       <description>I in a nutshell. Hello everyone. I am Filippos but you can call me Phil. I am living in Netherlands since 2019 and my origin is Greek. Currently rocking at 27 years old, trying to increase my expertise in Data Science and currently working at IBM based in Groningen, Netherlands.
 Fun fact:
 A bit of a history Phil as a person I grew up in a very small Greek town which is called Igoumenitsa and as a usual teenager I was very spontaneous and friendly with a positive vibe.</description>
@@ -24,20 +24,20 @@ A bit of a history Phil as a person I grew up in a very small Greek town which i
     
     <item>
       <title>Happy new year!</title>
-      <link>https://phil-pappas.github.io/portfolio_official_final/posts/new-year-2021/new-year-2021/</link>
+      <link>https://phil-pappas.github.io/posts/new-year-2021/new-year-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://phil-pappas.github.io/portfolio_official_final/posts/new-year-2021/new-year-2021/</guid>
+      <guid>https://phil-pappas.github.io/posts/new-year-2021/new-year-2021/</guid>
       <description>May this year bring new happiness, new goals, new achievements, and many new inspirations to your life. Wishing you a year fully loaded with happiness. Happy 2021!
  </description>
     </item>
     
     <item>
       <title>Welcome to my blog!</title>
-      <link>https://phil-pappas.github.io/portfolio_official_final/posts/welcome-post/welcome/</link>
+      <link>https://phil-pappas.github.io/posts/welcome-post/welcome/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://phil-pappas.github.io/portfolio_official_final/posts/welcome-post/welcome/</guid>
+      <guid>https://phil-pappas.github.io/posts/welcome-post/welcome/</guid>
       <description>Phil&amp;rsquo;s Data Science and Personal blog Hello everyone and welcome to my personal blog. I started this in order to share with you my experiences in topic such as:
  Data Science &amp;amp; AI Workout and heavy lifting Life &amp;amp; Travelling  This is the very first post of my blog within my new website. The old me can be found here. 
 Looking forward to share my experiences with you!</description>
